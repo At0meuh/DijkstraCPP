@@ -1,1 +1,2 @@
 C:\Users\terre\OneDrive\Bureau\MateoALBERLATOUR_Dijkstra\x64\Debug\MateoALBERLATOUR_Dijkstra.exe
+C:\Users\terre\OneDrive\Bureau\DijkstraCPP\x64\Debug\MateoALBERLATOUR_Dijkstra.exe
